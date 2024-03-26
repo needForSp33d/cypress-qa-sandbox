@@ -10,9 +10,10 @@ Fork from it, create a remote branch and then push back to main for review if yo
 
 ## Prerequisites
 
-- Install npm:
+- node and npm must have already been installed. Confirm via:
 
-```npm install```
+```node -v```
+```npm -v```
 
 ## Test Execution
 
